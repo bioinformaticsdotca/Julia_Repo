@@ -1,6 +1,6 @@
 ---
 layout: workshop_main_3day
-permalink: /Julia_Repo2
+permalink: /Julia_Rep
 title: RNA-seq Analysis
 header1: Workshop Pages for Students
 header2: RNA-seq Analysis 2024
@@ -22,6 +22,8 @@ The course **schedule** can be found [here](https://www.youtube.com/@bioinformat
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
 **Pre-work** including programs to install can be found [here](https://forms.gle/dXRFV6VRYAvvn3dd7).NOTE
+
+hello
 
 # AWS Module <a id="preworkshop"></a>
 
