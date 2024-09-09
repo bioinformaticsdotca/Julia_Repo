@@ -1,6 +1,6 @@
 ---
 layout: workshop_main_3day
-permalink: /Julia
+permalink: /Julia_Repo
 title: RNA-seq Analysis
 header1: Workshop Pages for Students
 header2: RNA-seq Analysis 2024
